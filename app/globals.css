@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: 0 0% 100%;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+::selection {
+  background-color: #ff8576;
+  color: white;
+}
+
+.bg-section-pink {
+  background-color: #fff1f1;
+}
+
+.bg-section-blue {
+  background-color: #1e3189;
+}
+
