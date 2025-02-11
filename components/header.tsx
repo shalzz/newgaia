@@ -9,7 +9,7 @@ export function Header() {
     <header className="fixed top-0 left-0 right-0 z-50 px-20 py-4 flex justify-between items-center bg-white" >
       <Link href="/" className="flex items-center gap-3">
         <Image
-          src="https://sjc.microlink.io/CWchOYx_1htklH11A8yJ_-4XFkeuOodt4qB9V2ysTeKYuZ-1hAl3nAwcqS0V-sQrjyqspzzOu7A-1j7I3UdIIQ.jpeg"
+          src="https://cdn.prod.website-files.com/64cb213a923ec66dd9b9fb7b/64ddf1c0be6144558052494f_logo%203.png"
           alt="New Gaia Collective"
           width={50}
           height={50}

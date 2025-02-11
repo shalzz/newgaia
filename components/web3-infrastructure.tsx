@@ -2,7 +2,12 @@
 
 import { motion } from "framer-motion"
 import { FloatingShapes } from "./floating-shapes"
-import { MeditationIllustration } from "./meditation-illustration"
+
+const transformStyle = {
+    willChange: "transform",
+    transform: "translate3d(0px, 47.271px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg)",
+    transformStyle: "preserve-3d",
+  };
 
 export function Web3Infrastructure() {
   return (
@@ -29,7 +34,8 @@ export function Web3Infrastructure() {
           transition={{ duration: 0.6 }}
           viewport={{ once: true }}
         >
-          <MeditationIllustration />
+          <img src="https://cdn.prod.website-files.com/64cb213a923ec66dd9b9fb7b/64cb213a923ec66dd9b9fc3c_MeditatingDoodle%201.png" />
+          <img src="https://cdn.prod.website-files.com/64cb213a923ec66dd9b9fb7b/64cb213a923ec66dd9b9fc2c_circus.png"/>
         </motion.div>
       </div>
     </section>
