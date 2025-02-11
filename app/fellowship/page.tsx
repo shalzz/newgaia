@@ -1,4 +1,5 @@
 import { Button } from "@/components/ui/button"
+import { Header } from "@/components/header"
 import { ArrowRight, BookOpen, Users, Briefcase, MessageCircle, Zap, Award } from "lucide-react"
 import Image from "next/image"
 
@@ -6,12 +7,7 @@ export default function FellowshipPage() {
   return (
     <div className="min-h-screen bg-white">
       {/* Header */}
-      <header className="bg-white shadow-sm fixed w-full z-10">
-        <div className="container mx-auto px-4 py-4 flex justify-between items-center">
-          <h1 className="text-2xl font-bold text-purple-700">New Gaia Tech Fellowship</h1>
-          <Button variant="default" className="bg-purple-600 text-white hover:bg-purple-700">Apply Now</Button>
-        </div>
-      </header>
+      <Header/>
 
       {/* Hero Section */}
       <section className="relative h-screen flex items-center">
