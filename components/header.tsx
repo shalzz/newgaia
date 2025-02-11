@@ -15,7 +15,7 @@ export function Header() {
           height={50}
           className="rounded-full"
         />
-        <span className="text-2xl font-bold text-primary">New Gaia Collective</span>
+        <span className="text-2xl font-bold text-accent-coral hover:text-primary transition-colors">New Gaia Collective</span>
       </Link>
       <nav>
         <motion.a

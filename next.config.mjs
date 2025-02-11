@@ -7,6 +7,16 @@ try {
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  rewrites: async () => {
+    return {
+      fallback: [
+        {
+          source: '/vision',
+          destination: '/vision.html',
+        },
+      ]
+    }
+  },
   eslint: {
     ignoreDuringBuilds: true,
   },
