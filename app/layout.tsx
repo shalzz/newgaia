@@ -24,5 +24,7 @@ export default function RootLayout({
 import './globals.css'
 
 export const metadata = {
-      generator: 'v0.dev'
-    };
+  generator: 'v0.dev',
+  title: "New Gaia Collective",
+  description: "We aim is to empower human creativity and use it as the means to foster the evolution of human civilization."
+};
