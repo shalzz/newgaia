@@ -13,9 +13,9 @@ export function Web3Infrastructure() {
   return (
     <section className="min-h-screen flex items-center justify-center p-4 bg-white relative overflow-hidden">
       <FloatingShapes variant="web3" />
-      <div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-12 items-center relative z-10">
+      <div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-12 items-center relative">
         <motion.div
-          className="space-y-6"
+          className="space-y-6 z-10"
           initial={{ opacity: 0, x: -50 }}
           whileInView={{ opacity: 1, x: 0 }}
           transition={{ duration: 0.6 }}

@@ -177,7 +177,7 @@ export function FloatingShapes({ variant = "hero" }: FloatingShapesProps) {
   return (
     <div className="absolute inset-0 overflow-hidden pointer-events-none">
       <motion.div
-        className="absolute right-10 top-20 w-32 h-32 rounded-full border-8 border-primary"
+        className="absolute right-10 top-20 w-32 h-32 rounded-full border-8 border-accent-coral opacity-50"
         style={{
           x: xTransform18,
           y: yTransform18,
