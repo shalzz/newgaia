@@ -6,7 +6,7 @@ import Link from "next/link"
 
 export function Header() {
   return (
-    <header className="sticky top-0 left-0 right-0 z-50 md:px-20 px-2 py-4 flex flex-wrap justify-between items-center bg-white" >
+    <header className="top-0 left-0 right-0 z-50 md:px-20 px-2 py-4 flex flex-wrap justify-between items-center bg-white" >
       <Link href="/" className="flex items-center gap-3 px-2">
         <Image
           src="https://cdn.prod.website-files.com/64cb213a923ec66dd9b9fb7b/64ddf1c0be6144558052494f_logo%203.png"
