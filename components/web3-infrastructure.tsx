@@ -3,6 +3,10 @@
 import { motion } from "framer-motion"
 import { FloatingShapes } from "./floating-shapes"
 
+import Image from 'next/image'
+import mediatingDoodlePic from '/meditating-doodle.png'
+import circusPic from '/circus.png'
+
 const transformStyle = {
     willChange: "transform",
     transform: "translate3d(0px, 47.271px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg)",
