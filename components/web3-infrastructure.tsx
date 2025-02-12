@@ -37,8 +37,7 @@ export function Web3Infrastructure() {
           <Image
             src={mediatingDoodlePic}
             alt="Picture of the meditating"
-            className="object-contain z-5"
-            fill
+            className="object-contain z-5 absolute md:static"
           />
           <Image
             src={circusPic}
