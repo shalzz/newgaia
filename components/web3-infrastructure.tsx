@@ -4,14 +4,10 @@ import { motion } from "framer-motion"
 import { FloatingShapes } from "./floating-shapes"
 
 import Image from 'next/image'
-import mediatingDoodlePic from '/meditating-doodle.png'
-import circusPic from '/circus.png'
+import mediatingDoodlePic from '../public/meditating-doodle.png'
+import circusPic from '../public/circus.png'
 
-const transformStyle = {
-    willChange: "transform",
-    transform: "translate3d(0px, 47.271px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg)",
-    transformStyle: "preserve-3d",
-  };
+const transformStyle = "transform-3d will-change-transform translate-y-47 scale-1";
 
 export function Web3Infrastructure() {
   return (
@@ -38,8 +34,17 @@ export function Web3Infrastructure() {
           transition={{ duration: 0.6 }}
           viewport={{ once: true }}
         >
-          <img src="https://cdn.prod.website-files.com/64cb213a923ec66dd9b9fb7b/64cb213a923ec66dd9b9fc3c_MeditatingDoodle%201.png" />
-          <img src="https://cdn.prod.website-files.com/64cb213a923ec66dd9b9fb7b/64cb213a923ec66dd9b9fc2c_circus.png"/>
+          <Image
+            src={mediatingDoodlePic}
+            alt="Picture of the meditating"
+            className="object-contain z-5"
+            fill
+          />
+          <Image
+            src={circusPic}
+            alt="Picture of the meditating"
+            className="invisible md:visible"
+          />
         </motion.div>
       </div>
     </section>
