@@ -2,6 +2,7 @@
 
 import { motion } from "framer-motion"
 import { FloatingShapes } from "./floating-shapes"
+import Link from "next/link"
 
 export function ParallelStartup() {
   return (
@@ -26,6 +27,11 @@ export function ParallelStartup() {
         >
           Dharmic Creativism led startup society where prosperity is measured across Material, Emotional and Cultural
           aspects.
+          <br/>
+          Taking ideas from Balaji's
+          <Link href="https://thenetworkstate.com/" className="text-accent-coral hover:text-primary"> Network State</Link>,
+          building online first communities
+          and eventually expanding to physical locations.
         </motion.p>
       </div>
     </section>
