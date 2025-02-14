@@ -2,18 +2,19 @@ import { Button } from "@/components/ui/button"
 import { Header } from "@/components/header"
 import { ArrowRight, BookOpen, Users, Briefcase, MessageCircle, Zap, Award } from "lucide-react"
 import Image from "next/image"
+import HeroPic from "../../public/joel-mott-unsplash.jpg"
 
 export default function FellowshipPage() {
   return (
-    <div className="min-h-screen bg-white">
+    <div className="min-h-screen">
       {/* Header */}
       <Header/>
 
       {/* Hero Section */}
       <section className="relative h-screen flex items-center">
         <Image
-          src="/placeholder.svg?height=1080&width=1920"
-          alt="Tech collaboration"
+          src={HeroPic}
+          alt="Tech collaboration - Photo by Joel Mott on Unsplash"
           layout="fill"
           objectFit="cover"
           quality={100}
@@ -85,13 +86,14 @@ export default function FellowshipPage() {
 
       {/* CTA Section */}
       <section className="relative py-20">
-        <Image
+        {/* <Image
           src="/placeholder.svg?height=600&width=1920"
           alt="Tech workspace"
           layout="fill"
           objectFit="cover"
           quality={100}
         />
+        */}
         <div className="absolute inset-0 bg-purple-100 bg-opacity-90"></div>
         <div className="container mx-auto px-4 text-center relative z-10">
           <h3 className="text-3xl font-bold mb-4 text-purple-800">Ready to Transform Your Tech Career?</h3>
