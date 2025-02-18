@@ -25,7 +25,7 @@ export default function FellowshipPage() {
           <p className="text-xl mb-8 text-gray-200">
             Join our tech fellowship and build the skills you need for the future of technology
           </p>
-          <Button size="lg" variant="secondary" className="bg-purple-500 text-white hover:bg-purple-600">
+          <Button size="lg" variant="secondary" className="bg-accent-coral text-white hover:bg-primary">
             Start Your Journey <ArrowRight className="ml-2" />
           </Button>
         </div>
@@ -34,7 +34,7 @@ export default function FellowshipPage() {
       {/* Features Section */}
       <section className="py-20">
         <div className="container mx-auto px-4">
-          <h3 className="text-3xl font-bold text-center mb-12">Why Choose Our Fellowship?</h3>
+          <h3 className="text-3xl text-accent-coral font-bold text-center mb-12">Why Choose Our Fellowship?</h3>
           <div className="space-y-8">
             <FeatureCard
               icon={<BookOpen className="w-12 h-12 text-purple-600" />}
@@ -58,7 +58,7 @@ export default function FellowshipPage() {
       {/* Process Section */}
       <section className="bg-gray-50 py-20">
         <div className="container mx-auto px-4">
-          <h3 className="text-3xl font-bold text-center mb-12">Our Fellowship Process</h3>
+          <h3 className="text-3xl text-accent-coral font-bold text-center mb-12">Our Fellowship Process</h3>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
             <ProcessCard
               icon={<MessageCircle className="w-8 h-8 text-purple-600" />}
@@ -94,13 +94,13 @@ export default function FellowshipPage() {
           quality={100}
         />
         */}
-        <div className="absolute inset-0 bg-purple-100 bg-opacity-90"></div>
+        <div className="absolute inset-0 bg-section-pink bg-opacity-90"></div>
         <div className="container mx-auto px-4 text-center relative z-10">
-          <h3 className="text-3xl font-bold mb-4 text-purple-800">Ready to Transform Your Tech Career?</h3>
+          <h3 className="text-3xl font-bold mb-4 text-purple-700">Ready to Transform Your Tech Career?</h3>
           <p className="text-xl mb-8 text-gray-700">
             Join the New Gaia Tech fellowship and unlock your potential in Web3 and AI.
           </p>
-          <Button size="lg" variant="outline" className="border-purple-600 text-purple-600 hover:bg-purple-100">
+          <Button size="lg" variant="outline" className="border-purple-600 text-purple-600 text-xl font-bold hover:bg-purple-100">
             Apply for the Fellowship <Award className="ml-2" />
           </Button>
         </div>
