@@ -9,6 +9,12 @@ try {
 const nextConfig = {
   rewrites: async () => {
     return {
+      afterFiles: [
+        {
+          source: '/docs/:path*',
+          destination: '/docs/:path*/index.html',
+        },
+      ],
       fallback: [
         {
           source: '/vision',

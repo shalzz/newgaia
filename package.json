@@ -6,9 +6,15 @@
     "dev": "next dev --turbopack",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "docusaurus-build": "docusaurus build --out-dir ./public/docs",
+    "docusaurus-serve": "docusaurus serve --dir ./public/docs",
+    "docusaurus-start": "docusaurus start"
   },
   "dependencies": {
+    "@docusaurus/core": "^3.7.0",
+    "@docusaurus/preset-classic": "^3.7.0",
+    "@mdx-js/react": "^3.0.0",
     "@emotion/is-prop-valid": "latest",
     "@hookform/resolvers": "^3.9.1",
     "autoprefixer": "^10.4.20",
@@ -20,6 +26,7 @@
     "framer-motion": "latest",
     "input-otp": "1.4.1",
     "lucide-react": "^0.454.0",
+    "prism-react-renderer": "^2.3.0",
     "next": "15.1.7",
     "next-themes": "^0.4.4",
     "react": "19.0.0",
@@ -35,6 +42,9 @@
     "zod": "^3.24.1"
   },
   "devDependencies": {
+    "@docusaurus/module-type-aliases": "^3.7.0",
+    "@docusaurus/tsconfig": "^3.7.0",
+    "@docusaurus/types": "^3.7.0",
     "@types/node": "^22",
     "@types/react": "19.0.8",
     "@types/react-dom": "19.0.3",
@@ -42,10 +52,25 @@
     "eslint-config-next": "15.1.7",
     "postcss": "^8",
     "tailwindcss": "^3.4.17",
-    "typescript": "^5"
+    "typescript": "~5.6.2"
   },
   "resolutions": {
     "@types/react": "19.0.8",
     "@types/react-dom": "19.0.3"
+  },
+  "browserslist": {
+    "production": [
+      ">0.5%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 3 chrome version",
+      "last 3 firefox version",
+      "last 5 safari version"
+    ]
+  },
+  "engines": {
+    "node": ">=18.0"
   }
 }
