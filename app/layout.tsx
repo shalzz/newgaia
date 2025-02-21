@@ -15,7 +15,7 @@ export default function RootLayout({
   return (
     <html lang="en" className={cabinet.variable}>
       <head>
-        <link rel="icon" href="https://cdn.prod.website-files.com/64cb213a923ec66dd9b9fb7b/64cb709bf6721528f69ba85a_logo%203-favicon.png" sizes="any" />
+        <link rel="icon" href="/favicon.png" sizes="any" />
         <script defer data-domain="newgaia.earth" src="https://plausible.8bitlabs.tech/js/script.js"></script>
       </head>
       <body className="bg-background font-sans">{children}</body>
