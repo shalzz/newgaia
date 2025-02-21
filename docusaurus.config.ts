@@ -48,8 +48,8 @@ const config: Config = {
       logo: {
         alt: 'New Gaia Logo',
         src: '../logo.png',
-        href: "https://newgaia.earth",
-        target: "_self",
+        href: "../",
+        target: "_top",
       },
       items: [
         {
