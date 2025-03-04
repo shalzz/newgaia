@@ -14,12 +14,6 @@ const nextConfig = {
           source: '/docs/:path*',
           destination: '/docs/:path*/index.html',
         },
-      ],
-      fallback: [
-        {
-          source: '/vision',
-          destination: '/vision.html',
-        },
       ]
     }
   },
