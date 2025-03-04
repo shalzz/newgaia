@@ -1,4 +1,4 @@
-# Culture
+# Culture 🕌
 
 > Culture can be defined as **all the ways of life including arts, beliefs and institutions of a population that are passed down from generation to generation**. Culture has been called *"the way of life for an entire society.”*
 
@@ -34,7 +34,7 @@ Culture often spreads through a society and propagates across generations via in
 
 ### Overcoming Outdated Institutions
 
-Historically institutions often start with the right intent but decline over time. While bad leadership is one of the reasons for decline, they often deteriorate due to rusty bureaucracy that fails to catch up with rapidly changing environments. Bureaucratic inertia finds its roots in democracy, regionality, and subsequent centralization. Consequently, a lot of irrelevant organizational inertia propagates across time as dogmas and outdated policies. This is how values are lost across generations. Values are not destroyed but often fail to reinvent with times. **It's time we use our technological and social progress to redesign our institutions**. [Network States and DAOs](#62032b9f-6d48-4e27-a662-e275f647de85) provide good design inspiration for new-age institutions. *New Gaia State takes design inspiration from Network States and the web3 movement at large.*
+Historically institutions often start with the right intent but decline over time. While bad leadership is one of the reasons for decline, they often deteriorate due to rusty bureaucracy that fails to catch up with rapidly changing environments. Bureaucratic inertia finds its roots in democracy, regionality, and subsequent centralization. Consequently, a lot of irrelevant organizational inertia propagates across time as dogmas and outdated policies. This is how values are lost across generations. Values are not destroyed but often fail to reinvent with times. **It's time we use our technological and social progress to redesign our institutions**. [Network States and DAOs](/vision/network-states) provide good design inspiration for new-age institutions. *New Gaia State takes design inspiration from Network States and the web3 movement at large.*
 
 ## Belief and Identity
 
@@ -78,11 +78,11 @@ All of us are subject to various “law and order” systems as per the immediat
 
 ##### Integrating Into the Society
 
-*We believe that each individual who takes up their emotional development journey has a role to play in NES.* The NES through its sub-societies provides sufficient options for contribution and development. As individuals develop themselves they become capable of bringing something unique into our world. The NES offers its complete support to such individuals by enabling them to build communities and economies around their unique ideas(i.e. [Creative Assets](#9f2153bb-7a3d-4087-8120-d877b1279b84)). This is the core strategy through which the NES aims to scale its society and associated economy.
+*We believe that each individual who takes up their emotional development journey has a role to play in NES.* The NES through its sub-societies provides sufficient options for contribution and development. As individuals develop themselves they become capable of bringing something unique into our world. The NES offers its complete support to such individuals by enabling them to build communities and economies around their unique ideas. This is the core strategy through which the NES aims to scale its society and associated economy.
 
 ## Putting Things Together
 
-To bring prosperity, the New Gaia State (NES) aims to build a new culture and a new economy ([“New Gaia Economy”](#39f75633-2cbc-436d-a255-1db3c722869c)) that places emotional development at its core and works on abundance. In doing so we:
+To bring prosperity, the New Gaia State (NES) aims to build a new culture and a new economy "New Gaia Economy" that places emotional development at its core and works on abundance. In doing so we:
 
 1. Nurture an intimate community of individuals that work towards embodying NGC’s vision.
 

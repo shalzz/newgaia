@@ -1,4 +1,4 @@
-#  👼 The Vision
+# The Vision 👼
 
 To build a new foundation (Economic, Cultural, and Technological) for our civilization that brings prosperity to each individual and enables them to develop deep emotional bonds with one another and the universe at large.
 

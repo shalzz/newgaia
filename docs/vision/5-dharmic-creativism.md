@@ -1,4 +1,4 @@
-# Dharmic Creativism
+# Dharmic Creativism ☸️ ️️️
 
 ## Creativism: Beyond Capitalism, Communism and Socialism
 
@@ -28,7 +28,7 @@ As a society, we are constantly faced with challenges, and solutions to some of 
 
 The Buddha uses these words to explain how we tend to create our circumstances through the nature of our thoughts. When our thoughts come from a deeper sense of righteousness they create constructive circumstances for oneself and society as a whole. When our thoughts come from a sense of fear, anxiety, or scarcity they create unhealthy circumstances and lead to conflicts in our society. Therefore as a society its important we make emotional development a top priority. It is only through our emotional development journeys that we can discover a sense of righteousness within our hearts.
 
-The Indians used the term “Dharma” to refer to this sense of righteousness within us. It is through our “Dharma” that we create deep bonds with one another and create positive outcomes for our society. It is important for us to differentiate creativity built on this sense of “Dharma” from other forms of creativity. *We have coined the term **“Dharmic Creativism”** to refer to* [*Creativism*](#9e7d7903-6b05-4afc-9c0d-4bc8e8c17aff) *built on a sense of “Dharma”.*
+The Indians used the term “Dharma” to refer to this sense of righteousness within us. It is through our “Dharma” that we create deep bonds with one another and create positive outcomes for our society. It is important for us to differentiate creativity built on this sense of “Dharma” from other forms of creativity. *We have coined the term "Dharmic Creativism" to refer to* *Creativism* *built on a sense of “Dharma”.*
 
 We believe that “Dharmic Creativism” can work as a great ideology for constructing a Political Economy for Network States.
 
@@ -56,7 +56,7 @@ Dharmic Creativism believes that any problem can have multiple possible solution
 
 #### Dynamic Governance
 
-[DAOs](#6fad0ba9-cf85-442c-9fd7-dcb203853cdd) enable a much more robust form of governance that can leverage analytics, AI, p2p encryptions, and smart contract automation to enable much faster cycles of evaluation-ideation-legislation-execution. Such a system minimizes the time between ideation and manifestation, enabling new ideas to become a ground reality in much shorter time-spans. This needs to go hand in hand with an ideology that supports such dynamic cycles of ideation and manifestation. Creativism defines that a solution must always be rethought from first principles as per the change in circumstances. Applying 19th-century law to 21st-century circumstances is not the ideal way to deal with problems. Emphasis on “Dharma” ensures that any new solution is intended to create positive outcomes for our society. This makes “Dharmic Creativism” a very compatible ideology for Dynamic Governance through DAOs.
+DAOs enable a much more robust form of governance that can leverage analytics, AI, p2p encryptions, and smart contract automation to enable much faster cycles of evaluation-ideation-legislation-execution. Such a system minimizes the time between ideation and manifestation, enabling new ideas to become a ground reality in much shorter time-spans. This needs to go hand in hand with an ideology that supports such dynamic cycles of ideation and manifestation. Creativism defines that a solution must always be rethought from first principles as per the change in circumstances. Applying 19th-century law to 21st-century circumstances is not the ideal way to deal with problems. Emphasis on “Dharma” ensures that any new solution is intended to create positive outcomes for our society. This makes “Dharmic Creativism” a very compatible ideology for Dynamic Governance through DAOs.
 
 #### Liquid Democracy
 

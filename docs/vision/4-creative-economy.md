@@ -1,4 +1,4 @@
-# Creative Economy
+# Creative Economy 🎨
 
 > *The United Nations looks at Creative Economy as a byproduct of the economic activity produced by the “Creative Industries”.* *UNCTAD defines creative industries* [as cycles of creating, producing, and distributing goods and services that use creativity and intellectual capital as primary inputs](https://unctad.org/system/files/official-document/ditctsce2022d1_en.pdf)[*.*](https://unctad.org/system/files/official-document/ditctsce2022d1_en.pdf) *They comprise a set of knowledge-based activities that produce tangible goods and intangible intellectual or artistic services with creative content, economic value, and market objectives.*
 > 

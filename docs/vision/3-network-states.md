@@ -1,4 +1,4 @@
-# Succeeding Nation States
+# Succeeding Nation States 🏴‍☠️
 
 NGC is not the first to think of creating a “New World” that brings back emotional welfare into the big picture. Let's study the possible approaches to creating new societies and examples for each of them.
 
@@ -18,9 +18,9 @@ The web3 movement has given a third alternative in the form of **“Network Stat
 > 
 > *- The Network State, Balaji Srinivasan*
 
-### Building a Network State [ℹ️](https://thenetworkstate.com/on-network-states#path-to-the-network-state)
+### Building a Network State
 
-The sequence of steps involved in the creation of a Network State are as follows:
+The sequence of steps involved in the [creation of a Network State](https://thenetworkstate.com/on-network-states#path-to-the-network-state) are as follows:
 
 1. **Network Union**
 
@@ -36,7 +36,7 @@ A network archipelago that gains diplomatic recognition from at least one legacy
 
 ## Network States and DAOs
 
-While [Network States](#377444ea-a810-41d6-8a37-8ffa75082172) have shown an additional way to organize the global order, they fail to answer questions around “how we can govern ourselves?”. To understand how we can govern ourselves better, let us first examine the roots of inefficiency in existing systems.
+While Network States have shown an additional way to organize the global order, they fail to answer questions around “how we can govern ourselves?”. To understand how we can govern ourselves better, let us first examine the roots of inefficiency in existing systems.
 
 ### Why Are Existing Systems Inefficient?
 
