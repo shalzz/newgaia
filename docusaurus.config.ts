@@ -52,18 +52,12 @@ const config: Config = {
         target: "_top",
       },
       items: [
-          {
-            type: 'doc',
-            docId: 'index',
-            position: 'left',
-            label: 'Home',
-          },
-          {
-            type: 'docSidebar',
-            sidebarId: 'vision',
-            position: 'left',
-            label: 'The Vision',
-          },
+          // {
+          //   type: 'doc',
+          //   docId: 'index',
+          //   position: 'left',
+          //   label: 'Home',
+          // }
       ],
     },
     footer: {

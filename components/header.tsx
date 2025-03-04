@@ -28,12 +28,12 @@ export function Header() {
           Fellowship
         </motion.a>
         <motion.a
-          href="/vision"
+          href="/docs"
           className="text-primary text-xl font-medium px-4 py-4 hover:text-accent-coral transition-colors"
           whileHover={{ scale: 1.05 }}
           whileTap={{ scale: 0.95 }}
         >
-          The Vision
+          Docs
         </motion.a>
       </nav>
     </header>

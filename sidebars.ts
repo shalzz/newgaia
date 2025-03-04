@@ -19,14 +19,17 @@ const sidebars: SidebarsConfig = {
   // But you can create a sidebar manually
   home: [
     'index',
-  ],
-
-  vision: [
-    'vision/intro',
-    'vision/culture',
-    'vision/network-states',
-    'vision/creative-economy',
-    'vision/dharmic-creativism',
+    {
+      type: 'category',
+      label: 'New Gaia Vision',
+      items: [
+        'vision/intro',
+        'vision/culture',
+        'vision/network-states',
+        'vision/creative-economy',
+        'vision/dharmic-creativism',
+      ],
+    },
   ],
 };
 
