@@ -1,9 +1,7 @@
 ---
-title: Homepage
+title: Introduction
 description: This is the homepage of the documentation site.
 slug: /
 ---
 
-# Hello
-
-How are you?
+Welcome to New Gaia Collective!
