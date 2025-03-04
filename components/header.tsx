@@ -33,7 +33,7 @@ export function Header() {
           whileHover={{ scale: 1.05 }}
           whileTap={{ scale: 0.95 }}
         >
-          Docs
+          White Paper
         </motion.a>
       </nav>
     </header>

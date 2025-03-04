@@ -22,6 +22,7 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: 'New Gaia Vision',
+      collapsed: false,
       items: [
         'vision/intro',
         'vision/culture',

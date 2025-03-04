@@ -1,4 +1,4 @@
-# The Vision 👼🏽
+#  👼 The Vision
 
 To build a new foundation (Economic, Cultural, and Technological) for our civilization that brings prosperity to each individual and enables them to develop deep emotional bonds with one another and the universe at large.
 
@@ -10,7 +10,7 @@ To build a new foundation (Economic, Cultural, and Technological) for our civili
 > 
 > **2. Emotional:** *Mental Health, Sense of Purpose/Identity, Companionship, Freedom of Speech/Expression*
 > 
-> **3. Cultural:** *Flourishing Innovation/Arts/Science, [Positive Group Dynamics](#ac6fd613-c009-450f-9335-2b1175fe8af9), Healthy and Evolving Traditions*
+> **3. Cultural:** *Flourishing Innovation/Arts/Science, Positive Group Dynamics, Healthy and Evolving Traditions*
 
 Any well-intended society is built to bring prosperity to all its members. Our world today uses Nation States as a unit of organization for the global order. Every society today finds its roots in a Nation State. A Nation State uses a Constitution as a guiding document for itself and all societies within it. The Constitution captures aspects of prosperity through its fundamental rights. However, very few Nation States have come close to becoming prosperous in all aspects. For example,
 
@@ -22,13 +22,13 @@ Any well-intended society is built to bring prosperity to all its members. Our w
 
 Lack of prosperity in one aspect eventually impacts other aspects too.
 
-🌐
+:::tip
+🌐 The **New Gaia Collective (NGC)** is a [Decentralized Autonomous Organization(DAO)][DAO] that aims to succeed the existing global order by creating a new foundation in the form of a [Network State][NS] called **New Gaia State.**
+:::
 
-The **New Gaia Collective (NGC)** is a [Decentralized Autonomous Organization(DAO)](#6fad0ba9-cf85-442c-9fd7-dcb203853cdd) that aims to succeed the existing global order by creating a new foundation in the form of a [Network State](#377444ea-a810-41d6-8a37-8ffa75082172) called **New Gaia State.**
-
-📈
-
-The **New Gaia State** will be the medium through which prosperity will be propagated around the globe in all its aspects: Material, Emotional, and Cultural.
+:::info
+📈 The **New Gaia State** will be the medium through which prosperity will be propagated around the globe in all its aspects: Material, Emotional, and Cultural.
+:::
 
 ## Economy 2.0: Integrating Emotional Welfare Into Material Progress
 
@@ -70,6 +70,9 @@ We propose the following major changes in the way political economy functions to
 
 2. A new kind of Economics must be invented that works on abundance instead of scarcity.
 
-Both of these are massive problems and have remained unsolved. To solve these problems we will use a combination of Creative Economy and Web3 to invent a [new kind of political economy.](#80fe03b0-82cd-4467-87a7-a17615c0b85f)
+Both of these are massive problems and have remained unsolved. To solve these problems we will use a combination of Creative Economy and Web3 to invent a [new kind of political economy.](/vision/dharmic-creativism)
 
 *New Gaia State will demonstrate how we can build new political economies that place emotional development at the core of economic progress.*
+
+[DAO]: https://ethereum.org/en/dao/
+[NS]: https://thenetworkstate.com/

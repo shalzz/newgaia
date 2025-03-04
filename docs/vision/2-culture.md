@@ -2,7 +2,7 @@
 
 > Culture can be defined as **all the ways of life including arts, beliefs and institutions of a population that are passed down from generation to generation**. Culture has been called *"the way of life for an entire society.”*
 
-[^1] Source: [Boston University](https://sphweb.bumc.bu.edu/otlt/mph-modules/PH/CulturalAwareness/CulturalAwareness2.html#:~:text=Culture%20can%20be%20defined%20as,life%20for%20an%20entire%20society.%22)
+[^1] Source: [Boston University][1]
 
 While economic systems determine incentive mechanisms in a society, our culture defines how we interact with one another and the environment around us. Culture is also responsible for setting up mechanisms through which we pass down our behavioral patterns from generation to generation. Even if we as a society manage to become prosperous in all its aspects, our culture would determine if we can persist prosperity across generations.
 
@@ -100,3 +100,4 @@ To bring prosperity, the New Gaia State (NES) aims to build a new culture and a 
 
 Let's explore these in much greater detail in the sections below.
 
+[1]: https://sphweb.bumc.bu.edu/otlt/mph-modules/PH/CulturalAwareness/CulturalAwareness2.html#:~:text=Culture%20can%20be%20defined%20as,life%20for%20an%20entire%20society.%22
