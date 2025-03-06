@@ -4,7 +4,7 @@ description: This is the homepage of the documentation site.
 slug: /
 ---
 
-Welcome to New Gaia Collective!
+Welcome to the New Gaia Collective!
 
 Our mission is to drastically equalize world wealth, create new ways of communal
 living and usher in an evolution of human society.
