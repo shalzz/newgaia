@@ -70,6 +70,13 @@ const config: Config = {
       darkTheme: prismThemes.dracula,
     },
   } satisfies Preset.ThemeConfig,
+  scripts: [
+    {
+      src: 'https://plausible.8bitlabs.dev/js/script.js',
+      defer: true,
+      "data-domain": "newgaia.earth"
+    },
+  ]
 };
 
 export default config;
