@@ -39,30 +39,37 @@ people could work and aspire towards, something that Nation States today have
 a glaring lack of, leading to people becoming cynical, isolated and
 competitive.
 
-### Lack of Emotional Well-Being
+### Measure of Progress and
 
-Nation States were never built to take emotional welfare into account.
-Political Economies measure economic progress by metrics like “GDP”, “Per Capita Income” and “Purchasing Power”.
+Political Economies measure only economic and capitalistic progress via metrics
+like “GDP”, “Per Capita Income” and “Purchasing Power”.
 
-Even the "Happiness Index" of Bhutan is built on indicators of material progress.
-It's not a surprise that we live in an emotionally fractured society.
+The Bhutanese [Gross National Happiness][1] or the "Happiness Index" comes close to
+being a more holistic approach to development and social welfare. However
+it doesn't completely capture the human emotional development and overall
+growth of it's citizens.
 
-### Economies are built on Scarcity
+When look and moving towards [Dharmic Capitalism][2] there's still a need for a
+metric or an index that can truly guide us and measure our impact and
+progress across all aspects of life and society that are good and just.
 
-Furthermore, these economies are built on some form of scarcity bound to a
-State’s “National Reserves”. Control of these reserves is restricted to a few elites.
-This leads to the concentration of wealth in the hands of a select few ‘elites’
-to govern the mass populace creating an eternal cycle of resource scarcity, bureaucratic corruption, and an inefficient system.
+To do so we look at the philosophy of Dharma and how we can encapsulate some
+of it's impact and ideals into a modern way of collecting, computing and
+presenting.
 
-We propose the following major changes in the way political economy functions today:
+We need a Dharmic Index, an index that measures progress and interdependence
+across different aspect such as:
 
-1. Bringing emotional welfare to the core of our society alongside material progress. Any progress must represent all aspects of prosperity. New metrics of ‘development’ need to be calibrated.
+* Material Comfort
+* Physical Health
+* Emotional Maturity and Intelligence
+* Ecological sustainability
+* Environmental diversity and harmony
 
-2. A new kind of Economics must be invented that works on abundance instead of scarcity.
-
-Both of these are massive problems and have remained unsolved. To solve these problems we will use a combination of Creative Economy and Web3 to invent a [new kind of political economy.](/vision/dharmic-creativism)
-
-*New Gaia State will demonstrate how we can build new political economies that place emotional development at the core of economic progress.*
+A Dharmic Index, that places equal value on all these aspect of an individuals
+life, can be the only true measure of a societies progress and development.
 
 [DAO]: https://ethereum.org/en/dao/
 [NS]: https://thenetworkstate.com/
+[1]: https://en.wikipedia.org/wiki/Gross_National_Happiness
+[2]: https://bluone.in/towards-dharmic-capitalism/
