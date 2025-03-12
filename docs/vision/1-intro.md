@@ -39,7 +39,7 @@ people could work and aspire towards, something that Nation States today have
 a glaring lack of, leading to people becoming cynical, isolated and
 competitive.
 
-### Metrics of Progress and Evolution
+## Measuring Progress and Evolution
 
 Political Economies measure only economic and capitalistic progress via metrics
 like “GDP”, “Per Capita Income” and “Purchasing Power”.
@@ -65,9 +65,10 @@ across different aspect such as:
 * Emotional Maturity and Intelligence
 * Ecological sustainability
 * Environmental diversity and harmony
+* Creative output, exchange and trade
 
 A Dharmic Index, that places equal value on all these aspect of an individuals
-life, can be the only true measure of a societies progress and development.
+life, can be the only true measure of a societies progress and evolution.
 
 [DAO]: https://ethereum.org/en/dao/
 [NS]: https://thenetworkstate.com/
