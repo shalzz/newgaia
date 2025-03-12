@@ -39,7 +39,7 @@ people could work and aspire towards, something that Nation States today have
 a glaring lack of, leading to people becoming cynical, isolated and
 competitive.
 
-### Measure of Progress and
+### Metrics of Progress and Evolution
 
 Political Economies measure only economic and capitalistic progress via metrics
 like “GDP”, “Per Capita Income” and “Purchasing Power”.
@@ -57,7 +57,7 @@ To do so we look at the philosophy of Dharma and how we can encapsulate some
 of it's impact and ideals into a modern way of collecting, computing and
 presenting.
 
-We need a Dharmic Index, an index that measures progress and interdependence
+We need a Dharmic Index, a metric that measures progress and interdependence
 across different aspect such as:
 
 * Material Comfort
