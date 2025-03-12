@@ -8,16 +8,6 @@ try {
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: "export",
-  rewrites: async () => {
-    return {
-      afterFiles: [
-        {
-          source: '/docs/:path*',
-          destination: '/docs/:path*/index.html',
-        },
-      ]
-    }
-  },
   eslint: {
     ignoreDuringBuilds: true,
   },
