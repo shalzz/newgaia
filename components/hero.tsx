@@ -5,8 +5,8 @@ import { FloatingShapes } from "./floating-shapes"
 
 export function Hero() {
   return (
-    <section className="min-h-screen flex flex-col items-center justify-center text-center px-4 relative bg-section-pink">
-      <FloatingShapes variant="hero" />
+    <section className="min-h-[90vh] flex flex-col items-center justify-center text-center px-4 relative bg-section-pink">
+      <FloatingShapes variant="hero"/>
       <motion.div
         className="relative z-10 max-w-4xl mx-auto"
         initial={{ opacity: 0, y: 20 }}
