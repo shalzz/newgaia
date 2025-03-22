@@ -1,9 +1,5 @@
 # The Vision 🌌
 
-To build a new Economic, Cultural, and Technological Foundation for our civilization
-that brings prosperity to each individual and enables them to develop deep emotional
-bonds with one another and hence the universe at large.
-
 ## Prosperity
 
 Prosperity is the state of constantly growing and flourishing in all aspects of life:

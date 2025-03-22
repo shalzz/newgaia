@@ -152,7 +152,7 @@ to their parent DAO’s Tokens.
 ## New Gaia State, its Sub-Societies and Forks
 
 The NGC would work towards the development of its first Network State in the
-form of **New Gaia State (NES)** that will act as a foundation for other
+form of **New Gaia State (NGS)** that will act as a foundation for other
 **Sub-Societies** to emerge out of them.
 
 The subDAOs in New Gaia State will form their own Sub-Societies around
@@ -163,11 +163,11 @@ within its Infrastructure (Technological, Economic and Cultural).*
 
 ### New Gaia State
 
-New Gaia State or NES is going to be the heart and soul of NGC’s agenda. Its
+New Gaia State or NGS is going to be the heart and soul of NGC’s agenda. Its
 aim is to bring back aspects of emotional development to the core of our
 society that we missed out on when we transitioned into Nation States. Any new
 world order is created on a concrete foundation that offers Cultural,
-Economic, Technological, and Spiritual Leadership. NES is going to be an
+Economic, Technological, and Spiritual Leadership. NGS is going to be an
 initiation for a new world order built on Network States.
 
 ### Sub-Societies and Derived Network States
