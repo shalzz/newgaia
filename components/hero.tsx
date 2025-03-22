@@ -19,7 +19,7 @@ export function Hero() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 0.2, duration: 0.8 }}
         >
-          Creativity at the Core of Organization
+          Creativity as the unit of Organization
         </motion.h1>
         <motion.p
           className="text-xl md:text-2xl text-primary/80 max-w-2xl mx-auto"
@@ -27,7 +27,7 @@ export function Hero() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 0.4, duration: 0.8 }}
         >
-          Join New Gaia Collective in reimagining how we organize ourselves, with creativity at the heart of society.
+          Join New Gaia Collective in re-imagining how we organize ourselves, with creativity at the heart of society.
         </motion.p>
       </motion.div>
     </section>

@@ -42,11 +42,11 @@ export function FailedStates() {
           transition={{ duration: 0.6 }}
           viewport={{ once: true }}
         >
-          <h2 className="text-accent-coral text-4xl font-bold">Existing Nation States have Failed!</h2>
-          <p className="text-gray-600 text-lg">
-            Capitalism, Communism and Socialism have all failed to create a truly prosperous society.
+          <h2 className="text-accent-coral text-5xl font-bold">Nation States are no longer sufficient</h2>
+          <p className="text-gray-700 text-lg">
+            <i>Capitalism, Communism and Socialism</i> are all insufficient and incomplete to create a truly prosperous society.
           </p>
-          <p className="text-gray-600 text-lg">
+          <p className="text-gray-700 text-lg">
             Riddled with information asymmetry and ossified institutes, we need a balanced and holistic approach to an
             economic system.
           </p>
