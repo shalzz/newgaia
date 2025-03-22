@@ -1,12 +1,7 @@
 # Succeeding Nation States 🏴‍☠️
+## Why build a "New World"?
 
-NGC is not the first to think of creating a “New World” that brings back
-emotional welfare into the big picture. Let's study the possible approaches to
-creating new societies and examples for each of them.
-
-## Past Approaches and the Road Ahead
-
-One approach is to set up **New Nation States** that bring back emotional
+One of the approaches is to set up a **New Nation State** that bring back emotional
 development into the foundation of our society. This was the approach taken by
 visionaries like Sri Aurobindo-Mirra Alfassa (Auroville) and Rajneesh (OSHO
 Oregon City). These unfortunately could not scale beyond their regions and
@@ -14,7 +9,7 @@ often got into conflicts with Nation States. Due to their commune-like nature,
 they could not get sovereign recognition and evolve into full-fledged Nation
 States.
 
-The second approach is to establish **Global Societies** in existing nation
+Another approach is to establish **Global Societies** in existing nation
 states and enforce new ways of living within these societies. This is the
 approach taken by most religious organizations or alternative living movements
 around the world. Some successful examples include the Theosophical Society
