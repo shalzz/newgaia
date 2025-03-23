@@ -1,15 +1,15 @@
 # Creative Economy 🎨
 
-> *The United Nations looks at Creative Economy as a byproduct of the economic
-> activity produced by the “Creative Industries”.* *UNCTAD defines creative
-> industries* [as cycles of creating, producing, and distributing goods and
+> Creative Economy is driven by Creative
+> industries which have cycles of creating, producing, and distributing goods and
 > services that use creativity and intellectual capital as primary
-> inputs](https://unctad.org/system/files/official-document/ditctsce2022d1_en.pdf)[*.*](https://unctad.org/system/files/official-document/ditctsce2022d1_en.pdf)
+> inputs.
+>
 > *They comprise a set of knowledge-based activities that produce tangible
 > goods and intangible intellectual or artistic services with creative
 > content, economic value, and market objectives.*
 > 
-> *- United Nations Conference on Trade and Development(UNCTAD) 2022*
+> *- United Nations Conference on Trade and Development(UNCTAD) 2022*[^1]
 
 When we look at any asset we first perceive its utility in our minds. This
 utility translates into value. An Economy deals with the supply, distribution,
@@ -33,13 +33,10 @@ economy to unlock its full potential.
 Creative Assets are an outcome of a combination of Human Creativity and
 Intellectual Capital. Both of these truly belong to an individual and are not
 something regulatory bodies or centralized institutions can control or own.
-These “Creative Assets” have managed to create entire markets around
-themselves amounting to net wealth of about 2.25 Trillion USD or 3% of the GDP
-as of 2024.
 
-Due to the Internet markets are evolving to become more “Creative Asset
+Due to network effects of the Internet, markets are evolving to become more “Creative Asset
 Centric” rather than “Institution Centric”. The advent of
-[cryptocurrencies](https://www.forbes.com/advisor/investing/cryptocurrency/what-is-cryptocurrency/)[](https://www.forbes.com/advisor/investing/cryptocurrency/what-is-cryptocurrency/)enables
+[cryptocurrencies][1] enables
 any creative asset to create a free market for itself independent of any
 middleman or institutions. For example, today a music artist can release their
 music as an NFT without bringing production labels in between, with ownership
@@ -48,20 +45,11 @@ middlemen and are limiting them to be used as distribution channels.
 
 ### Creative Assets and Emotional Development
 
-NGC places services and programs around Emotional Development at its core.
-Services around Emotional Development or Human Development are also a creative
-asset and everything discussed above applies to these as well.
-
 Apart from services around Emotional Development being a creative asset, there
 is a special link between creativity and emotional welfare, which make these a
 special kind of creative asset. Creative Assets are the output of an
 individual creator or a group of creators. A creative asset’s impact is a
-direct reflection of its creator’s creative faculties. *We at NGC believe that
-an individual’s creative faculties are dependent on his underlying emotional
-welfare.* Our understanding comes from our team’s extensive experience with
-Eastern Philosophy, Human Development, and Spirituality in general. *This
-gives us sufficient ground to make Emotional Development a necessary path to
-increase the quality of a creator’s creative output.*
+direct reflection of its creator’s creative faculties.
 
 ### Measuring Impact of Creative Assets
 
@@ -108,7 +96,7 @@ currency, as decor, as a conductor, and for infinite other utilities. It is
 our minds that limit us on the utility an asset can have.
 
 - One utility can be satisfied by infinitely many assets. As a society for a
-currency, we can use gold, silver, fiat(USD, INR, GBP etc), Bitcoin, Ethereum,
+currency, we can use gold, silver, fiat (USD, INR, GBP etc), Bitcoin, Ethereum,
 and an infinite other assets. It is we who limit ourselves from finding
 alternative assets to satisfy a utility.
 
@@ -156,3 +144,7 @@ drastic reduction of costs around utilities that can satisfy our basic needs.
 *This can potentially lead to a situation where all basic needs(physical and
 emotional) can readily be satisfied at both individual and at a societal
 level.*
+
+[^1]: https://unctad.org/system/files/official-document/ditctsce2022d1_en.pdf
+
+[1]: https://www.forbes.com/advisor/investing/cryptocurrency/what-is-cryptocurrency/
