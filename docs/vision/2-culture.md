@@ -104,6 +104,19 @@ way to enable individuals to strengthen their belief in higher motivations
 into knowing. This also helps build a good culture by setting the stage for
 the right kind of social dynamics.
 
+## Evolved Humans for an Evolved Society
+
+An evolved society needs equally aware and conscious individuals to
+participate and build the society, define it's culture and drive it's economics.
+
+People who have gone through a personal transformative **Journey of
+Self-Discovery** and therefore **have Self-Love** can be the only individuals capable of
+**Authentic Self-Expression** in **harmony with the collective** and in **service of the
+collective** society.
+
+*Personal and Emotional Development needs to be part of our incentive system
+and external supportive services to be easily accessible.*
+
 ## Putting Things Together
 
 To bring prosperity, the New Gaia State (NGS) aims to build a new culture and

@@ -1,38 +1,4 @@
 # Succeeding Nation States 🏴‍☠️
-## Why build a "New World"?
-
-One of the approaches is to set up a **New Nation State** that bring back emotional
-development into the foundation of our society. This was the approach taken by
-visionaries like Sri Aurobindo-Mirra Alfassa (Auroville) and Rajneesh (OSHO
-Oregon City). These unfortunately could not scale beyond their regions and
-often got into conflicts with Nation States. Due to their commune-like nature,
-they could not get sovereign recognition and evolve into full-fledged Nation
-States.
-
-Another approach is to establish **Global Societies** in existing nation
-states and enforce new ways of living within these societies. This is the
-approach taken by most religious organizations or alternative living movements
-around the world. Some successful examples include the Theosophical Society
-(Madame Blavatsky - Colonel Olcott), Art of Living (Sri Sri Ravishankar), etc.
-These have sustained but utilize economic systems and culture of Nation States
-they reside in. This prevents them from providing an alternative foundation
-for our civilization and solving problems inherent to their respective Nation
-States.
-
-For New Gaia State to function independently and scale globally without
-friction from the existing order of Nation States it is important for them to
-disconnect from Nation States at both economic and decision-making levels.
-
-The web3 movement has given a third alternative in the form of **“Network
-States”**. This is a combination of the first two approaches. Network States
-use blockchain technology to construct independent economic systems without
-reliance on any of the existing Nation States. This allows any collective to
-evolve into a [parallel
-society](https://thenetworkstate.com/the-one-commandment#the-concept-of-a-parallel-society)
-without creating conflicts with the existing establishment. Here we combine
-the best parts from Nation States and Global Societies without their
-limitations.
-
 ## Network States
 
 > *A network state is a highly aligned online community with a capacity for
@@ -64,14 +30,41 @@ physical world. The **physical interaction** is key for building trust.
 A network archipelago that gains diplomatic recognition from at least one
 legacy state. The diplomatic recognition is key for attaining sovereignty.
 
+## Why build a "New World"?
+
+One of the approaches is to set up a **New Nation State** that bring back emotional
+development into the foundation of our society. This was the approach taken by
+visionaries like Sri Aurobindo-Mirra Alfassa (Auroville) and Rajneesh (OSHO
+Oregon City). These unfortunately could not scale beyond their regions and
+often got into conflicts with Nation States. Due to their commune-like nature,
+they could not get sovereign recognition and evolve into full-fledged Nation
+States.
+
+Another approach is to establish **Global Societies** in existing nation
+states and enforce new ways of living within these societies. This is the
+approach taken by most religious organizations or alternative living movements
+around the world. Some successful examples include the Theosophical Society
+(Madame Blavatsky - Colonel Olcott), Art of Living (Sri Sri Ravishankar), etc.
+These have sustained but utilize economic systems and culture of Nation States
+they reside in. This prevents them from providing an alternative foundation
+for our civilization and solving problems inherent to their respective Nation
+States.
+
+For New Gaia State to function independently and scale globally without
+friction from the existing order of Nation States it is important for them to
+disconnect from Nation States at both economic and decision-making levels.
+
+Network States use blockchain technology to construct independent economic
+systems without reliance on any of the existing Nation States.
+This allows any collective to evolve into a [parallel society][2]
+without creating conflicts with the existing establishment.
+
 ## Network States and DAOs
 
 While Network States have shown an additional way to organize the global
-order, they fail to answer questions around “how we can govern ourselves?”. To
-understand how we can govern ourselves better, let us first examine the roots
-of inefficiency in existing systems.
+order, they fail to answer questions around “how can we govern ourselves?”.
 
-### Why Are Existing Systems Inefficient?
+### Existing Systems Inefficiencies
 
 1. **Regionality**
 
@@ -113,12 +106,7 @@ can offer an alternative to today’s clunky justice system.
 
 ## Decentralized Autonomous Organization (DAO)
 
-> DAOs a*llows us to design a new form of democracy which is more stable, less
-> prone to erratic behavior, better able to meet the needs of its citizens,
-> and which better uses the expertise of all its citizens to make high-quality
-> decisions*  *— Tony Blaire Institute for Global Change*
-
-A Decentralized Autonomous organization or DAO is a collectively-owned,
+A [Decentralized Autonomous organization][1] or DAO is a collectively-owned,
 blockchain-governed organization working towards a shared mission.
 
 DAOs allow us to work with like-minded folks around the globe without trusting
@@ -144,48 +132,6 @@ have an independent foundation and ownership structure but use their parent
 DAO as an economic and ideological base. Any Tokenomics in subDAOs ties back
 to their parent DAO’s Tokens.
 
-## New Gaia State, its Sub-Societies and Forks
-
-The NGC would work towards the development of its first Network State in the
-form of **New Gaia State (NGS)** that will act as a foundation for other
-**Sub-Societies** to emerge out of them.
-
-The subDAOs in New Gaia State will form their own Sub-Societies around
-themselves but the sovereign recognition would stay with New Gaia State.
-
-*New Gaia State will scale by enabling sub-societies to emerge and function
-within its Infrastructure (Technological, Economic and Cultural).*
-
-### New Gaia State
-
-New Gaia State or NGS is going to be the heart and soul of NGC’s agenda. Its
-aim is to bring back aspects of emotional development to the core of our
-society that we missed out on when we transitioned into Nation States. Any new
-world order is created on a concrete foundation that offers Cultural,
-Economic, Technological, and Spiritual Leadership. NGS is going to be an
-initiation for a new world order built on Network States.
-
-### Sub-Societies and Derived Network States
-
-*NGC through its human development programs will empower individuals to become
-creators in their own right and start their own Sub-Societies within the
-sovereignty of the New Gaia State.*
-
-Each of these sub-societies will operate independently via a subDAO with the
-NGC DAO being its parent. Doing this ensures a stable backbone economy while
-giving sufficient room for experimentation and decentralized growth. These
-Sub-Societies will inherit aspects of culture, technology, and economy from
-the New Gaia State and gradually evolve into independent societies with
-sovereign recognition. This is when they would have an option to transition
-into an independent network state.
-
-Parent Network State → New Gaia State → NGC DAO
-
-Sub-Societies → subDAO
-
-Derived Network States(evolve out of Sub-Societies) → Independent Sovereign
-Societies
-
 ### Forks
 
 The NGC by design will open-source the majority of its technology
@@ -194,3 +140,6 @@ for a variety of use cases, some of which might involve the creation of
 Network States. While the NGC is not going to be directly involved in these
 fork projects, we recognize and encourage them in building a new global order
 that brings prosperity to all of us, in addition to us.
+
+[1]: https://ethereum.org/en/dao/
+[2]: https://thenetworkstate.com/the-one-commandment#the-concept-of-a-parallel-society

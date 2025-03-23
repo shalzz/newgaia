@@ -1,5 +1,7 @@
 # The Vision 🌌
 
+All life wants to grow, expand and prosper.
+
 ## Prosperity
 
 Prosperity is the state of constantly growing and flourishing in all aspects of life:
