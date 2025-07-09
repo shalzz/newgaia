@@ -56,7 +56,7 @@ higher or lower as far as it is in alignment with the dharma.
 ### Good and Evil
 
 Good and Evil are but the two sides of the same coin. We do not impose any
-false sense of an external morality, but know good and evil are just different
+sense of an external morality, but know good and evil are just different
 perspectives. We rely on everyone’s own sense of dharma to guide them, not in
 isolation, but together as one community, society and eventually one being.
 
