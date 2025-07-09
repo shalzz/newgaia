@@ -31,6 +31,8 @@ const sidebars: SidebarsConfig = {
         'vision/dharmic-creativism',
       ],
     },
+    'mission',
+    'principles',
     'values',
   ],
 };

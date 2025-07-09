@@ -27,7 +27,7 @@ export function Hero() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 0.4, duration: 0.8 }}
         >
-          Join New Gaia Collective in re-imagining how we organize ourselves, with creativity at the heart of society.
+          The New Gaia Collective builds and supports intentional communities that foster creativity, harmony, and economic equality to pioneer a new model for society.
         </motion.p>
       </motion.div>
     </section>
